@@ -44,8 +44,8 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BossM4&theme=dark)](https://git.io/streak-stats)
   
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BossM4)](https://github.com/anuraghazra/github-readme-stats)  
+### :fire: My Language :
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BossM4&compact)
 
 ### :writing_hand: Blog Posts :
   <!--
