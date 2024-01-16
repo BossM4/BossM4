@@ -45,7 +45,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=default)](https://git.io/streak-stats)
  --> 
 ### :fire: My Language :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BossM4&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BossM4&layout=pie)
 
 ### :writing_hand: Blog Posts :
   <!--
